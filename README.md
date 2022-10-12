@@ -4,7 +4,7 @@
 <img src="https://count.getloli.com/get/@:CayCayLucky?theme=rule34" alt=":CayCayLucky" />
 
 #### 数据统计
-<img src="https://github-readme-stats.vercel.app/api?username=catcatlucky&show_icons=true&locale=cn&custom_title=猫猫幸运的GIthub数据统计" />
+<img src="https://github-readme-stats.vercel.app/api?username=catcatlucky&show_icons=true&locale=cn&custom_title=猫猫幸运的GitHub数据统计" />
 
 #### 接触技术 :computer:
 <br>
