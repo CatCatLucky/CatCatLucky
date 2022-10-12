@@ -4,7 +4,7 @@
 <img src="https://count.getloli.com/get/@:CayCayLucky?theme=rule34" alt=":CayCayLucky" />
 
 #### Data statistics
-<img src="https://github-readme-stats.vercel.app/api?username=catcatlucky&show_icons=true&locale=en&custom_title=GIthub+stats+for+CatCatLucky" />
+<img src="https://github-readme-stats.vercel.app/api?username=catcatlucky&show_icons=true&locale=en&custom_title=GitHub+stats+for+CatCatLucky" />
 
 #### Contact technical :computer:
 <br>
