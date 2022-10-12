@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+cat+catlucky;我是猫猫幸运&&color=000000)]([https://git.io/typing-svg](https://github.com/CatCatLucky))
 #### Access statistics
-<img src="https://count.getloli.com/get/@:CayCayLucky" alt=":CayCayLucky" />
+<img src="https://count.getloli.com/get/@:CayCayLucky?theme=rule34" alt=":CayCayLucky" />
 
 #### Data statistics
 <img src="https://github-readme-stats.vercel.app/api?username=catcatlucky&show_icons=true&locale=en&custom_title=GIthub+stats+for+CatCatLucky" />
